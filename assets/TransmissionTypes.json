@@ -1,0 +1,44 @@
+{
+	"success": true,
+	"data": {
+		"result": {
+			"transmissionTypes": [{
+				"displayName": "Clinical Document Architecture",
+				"code": "CDA" 
+			},
+			{
+				"displayName": "ADT message",
+				"code": "ADT"
+			},
+			{
+				"displayName": "Medical document management",
+				"code": "MDM"
+			},
+			{
+				"displayName": "Unsolicited transmission of an observation message",
+				"code": "ORU"
+			},
+			{
+				"displayName": "Billing",
+				"code": "B1"
+			},
+			{
+				"displayName": "Post Adjudication History Detail Record",
+				"code": "DE"
+			},
+			{
+				"displayName": "Health Care Services Review Information",
+				"code": "278"
+			},
+			{
+				"displayName": "Health Care Claim",
+				"code": "837"
+			},
+			{
+				"displayName": "MDR",
+				"code": "MDR"
+			}]
+		},
+		"lastUpdatedDTTM": "2018-08-03T06:01:48"
+	}
+}

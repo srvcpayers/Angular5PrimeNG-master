@@ -1,0 +1,65 @@
+{
+	"success": true,
+	"data": {
+		"result": [{
+			"trackingId": "ADT_A08_20180724-08-32-01_002",
+			"etlBeginDTTM": "2018-08-02T19:35:03",
+			"dataSource": "CAU Hospital",
+			"typeDE": {
+				"displayName": "ADT",
+				"code": "ADT", 
+				"codeSystemName": "Feed Message Type",
+				"codeSystemOid": "2.16.840.1.113883.3.2884.1.1.1.66"
+			},
+			"EventTypeDE": {
+				"displayName": "ADT",
+				"code": "ADT", 
+				"codeSystemName": "Feed Message Type",
+				"codeSystemOid": "2.16.840.1.113883.3.2884.1.1.1.66"
+			},
+			"etlStatusCD": "Started" 
+		},
+		{
+			"trackingId": "05_xDictionaryConcept_20180724-08-32-01_002",
+			"etlBeginDTTM": "2018-08-02T19:34:47",
+			"etlEndDTTM": "2018-08-02T19:34:58",
+			"dataSource": "MDR",
+			"typeDE": {
+				"displayName": "MDR",
+				"code": "MDR",
+				"codeSystemName": "Feed Message Type",
+				"codeSystemOid": "2.16.840.1.113883.3.2884.1.1.1.66"
+			},
+			"etlStatusCD": "Successful"
+		},
+		{
+			"trackingId": "04_xDictionaryConceptGroup_20180724-08-32-01_002",
+			"etlBeginDTTM": "2018-08-02T19:34:37",
+			"etlEndDTTM": "2018-08-02T19:34:41",
+			"dataSource": "MDR",
+			"typeDE": {
+				"displayName": "MDR",
+				"code": "MDR",
+				"codeSystemName": "Feed Message Type",
+				"codeSystemOid": "2.16.840.1.113883.3.2884.1.1.1.66"
+			},
+			"etlStatusCD": "Failed",
+			"etlResultMessageText":"Full Error Message" 
+		},
+		{
+			"trackingId": "15_ProviderContact_20180730-01-44-22_001",
+			"etlBeginDTTM": "2018-07-31T01:46:53",
+			"etlEndDTTM": "2018-07-31T01:46:55",
+			"dataSource": "MDR",
+			"typeDE": {
+				"displayName": "MDR",
+				"code": "MDR",
+				"codeSystemName": "Feed Message Type",
+				"codeSystemOid": "2.16.840.1.113883.3.2884.1.1.1.66"
+			},
+			"etlStatusCD": "Successful"
+		}],
+		"totalCount": 23,
+		"lastUpdatedDTTM": "2018-08-03T05:52:24"
+	}
+}
